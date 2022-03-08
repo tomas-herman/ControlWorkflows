@@ -1,4 +1,5 @@
 name: !public qc-postprocessing
+description: !public "Qc-postprocessing worflow template"
 defaults:
   log_task_output: none
   fmq_rate_logging: 0
